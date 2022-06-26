@@ -19,4 +19,5 @@
   <a href = "mailto:caio.cunha@sou.unifeob.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-grilo-da-cunha-05ba14240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5519996643310?text=Ol%C3%A1,%20boa%20tarde!%0ATudo%20bem?%0A%0AEu%20sou%20Caio%20Cunha,%20embaixador%20de%20tecnologia%20da%20UNIFEOB." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/Caio_Cunha" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
