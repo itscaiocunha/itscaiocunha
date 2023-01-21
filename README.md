@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaioEmb&color=yellow" alt="Profile views" /> </p>
 
+## Github Stats
 <div align="center">
   <a href="https://github.com/CaioEmb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEmb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
