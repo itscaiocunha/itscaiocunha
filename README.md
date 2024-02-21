@@ -2,9 +2,11 @@
 
 And sometimes I like to mess around with the front end
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Henrique Barbosa Garcia GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscaiocunha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+<div align="left">
+  <img width="22%" src="octocat_itscaiocunha.png">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Grilo da Cunha GitHub stats" /> 
+  <img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscaiocunha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,7 +25,7 @@ And sometimes I like to mess around with the front end
   
 </div>
   
-  ##
+## Social Midia
  
 <div> 
   <a href="https://instagram.com/itscaiocunha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
