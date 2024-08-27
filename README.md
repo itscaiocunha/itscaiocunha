@@ -1,4 +1,12 @@
 ## Hi, I'm Caio Cunha, a full stack developer...
+and educational technology. My background includes strong skills in:
+
+- Curriculum Restructuring: I have worked on reshaping curriculum structures for technology courses, ensuring that content aligns with market demands and best educational practices.
+- Creation of Educational Materials: I have developed educational materials that facilitate learning and understanding of technological concepts for students and professionals.
+- Development of Technological Solutions: I have experience in creating innovative technological solutions for the market, including e-commerce development, UI/UX design for websites, and integration of tools and API routines.
+- Data Analysis and Digital Marketing Strategies: I have created reports and dashboards for decision-making and developed digital marketing strategies to promote and optimize products and services.
+
+#### My educational background includes a degree in Analysis and System Development from UNIFEOB, and I am currently deepening my knowledge with a second degree in Computer Science.
 
 <div align="left">
 <!--   <img width="22%" src="assets/octocat_itscaiocunha.png">   -->
