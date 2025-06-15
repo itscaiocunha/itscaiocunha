@@ -4,22 +4,6 @@ Sou um desenvolvedor Full Stack com forte atuação em Engenharia de Software, C
 
 Minha trajetória combina desenvolvimento de software, integração de APIs, cloud computing, data visualization e gestão de projetos ágeis. Tenho experiência liderando times técnicos, criando soluções para o mercado e desenvolvendo produtos que vão de e-commerces e dashboards interativos até pipelines de DevOps e projetos com Inteligência Artificial.
 
-## 💻 Áreas de Atuação:
-- Desenvolvimento Full Stack:
-Experiência com tecnologias como C#, ASP.NET, NodeJS, NextJS, ReactJS, TypeScript, Tailwind, entre outras.
-
-- Cloud & DevOps:
-Implantação e manutenção de soluções em Azure, AWS e Google Cloud. Trabalho com Docker, GitHub Actions, e automação de pipelines DevOps.
-
-- Integração de APIs e Arquitetura de Sistemas:
-Projetos com API Rest, SQL Server, MySQL, MongoDB e práticas de Design de Software.
-
-- Data Analytics & Visualização de Dados:
-Criação de dashboards, relatórios gerenciais e ETL pipelines utilizando Power BI, Google Data Studio, Python e Grafana.
-
-- Experiência em Educação e Liderança Técnica:
-Atuação na reestruturação curricular de cursos de TI, desenvolvimento de materiais didáticos e liderança de projetos educacionais.
-
 <div align="left">
 <!--   <img width="22%" src="assets/octocat_itscaiocunha.png">   -->
   <img src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Grilo da Cunha GitHub stats" /> 
