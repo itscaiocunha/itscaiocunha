@@ -1,42 +1,72 @@
-## Hi, I'm Caio Cunha, a full stack developer...
-and educational technology. My background includes strong skills in:
+## 👋 Olá, eu sou o Caio Cunha!
 
-- Curriculum Restructuring: I have worked on reshaping curriculum structures for technology courses, ensuring that content aligns with market demands and best educational practices.
-- Creation of Educational Materials: I have developed educational materials that facilitate learning and understanding of technological concepts for students and professionals.
-- Development of Technological Solutions: I have experience in creating innovative technological solutions for the market, including e-commerce development, UI/UX design for websites, and integration of tools and API routines.
-- Data Analysis and Digital Marketing Strategies: I have created reports and dashboards for decision-making and developed digital marketing strategies to promote and optimize products and services.
+Sou um desenvolvedor Full Stack com forte atuação em Engenharia de Software, Ciência de Dados e Arquitetura de Sistemas. Atualmente, estudo Ciência da Computação e já sou formado em Análise e Desenvolvimento de Sistemas.
 
-#### My educational background includes a degree in Analysis and System Development from UNIFEOB, and I am currently deepening my knowledge with a second degree in Computer Science.
+Minha trajetória combina desenvolvimento de software, integração de APIs, cloud computing, data visualization e gestão de projetos ágeis. Tenho experiência liderando times técnicos, criando soluções para o mercado e desenvolvendo produtos que vão de e-commerces e dashboards interativos até pipelines de DevOps e projetos com Inteligência Artificial.
+
+## 💻 Áreas de Atuação:
+- Desenvolvimento Full Stack:
+Experiência com tecnologias como C#, ASP.NET, NodeJS, NextJS, ReactJS, TypeScript, Tailwind, entre outras.
+
+- Cloud & DevOps:
+Implantação e manutenção de soluções em Azure, AWS e Google Cloud. Trabalho com Docker, GitHub Actions, e automação de pipelines DevOps.
+
+- Integração de APIs e Arquitetura de Sistemas:
+Projetos com API Rest, SQL Server, MySQL, MongoDB e práticas de Design de Software.
+
+- Data Analytics & Visualização de Dados:
+Criação de dashboards, relatórios gerenciais e ETL pipelines utilizando Power BI, Google Data Studio, Python e Grafana.
+
+- Experiência em Educação e Liderança Técnica:
+Atuação na reestruturação curricular de cursos de TI, desenvolvimento de materiais didáticos e liderança de projetos educacionais.
 
 <div align="left">
 <!--   <img width="22%" src="assets/octocat_itscaiocunha.png">   -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Grilo da Cunha GitHub stats" /> 
-  <img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscaiocunha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Grilo da Cunha GitHub stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscaiocunha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
 <div style="display: inline_block"><br>
 
-  ### Main Tools
-  
-  <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Caio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+### 🛠️ Desenvolvimento de Software
 
-  ### Secondary Tools
-  <img align="center" alt="Caio-C'#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Caio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="Caio-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />
+#### Front End:
+<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="center" alt="ASP.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg" />
 
-  ### Cloud
-  <img align="center" alt="Caio-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="Caio-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+#### Back End:
+<img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  ### Design
-  <img align="center" alt="Caio-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Caio-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+#### Banco de Dados:
+<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+#### DevOps:
+<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+
+### Cloud:
+
+<img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
 </div>
+
+<br><br>
  
 <div> 
   
