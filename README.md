@@ -1,62 +1,59 @@
 ## 👋 Olá, eu sou o Caio Cunha!
 
-Sou um desenvolvedor Full Stack com forte atuação em Engenharia de Software, Ciência de Dados e Arquitetura de Sistemas. Atualmente, estudo Ciência da Computação e já sou formado em Análise e Desenvolvimento de Sistemas.
+Sou Engenheiro de Software e Infraestrutura com sólida base em Ciência da Computação e especialização voltada à Inteligência de Estado e Perícia Digital. Minha atuação é focada no desenho de arquiteturas escaláveis, governança de dados sensíveis e implementação de soluções de inteligência artificial em ambientes de missão crítica.
 
-Minha trajetória combina desenvolvimento de software, integração de APIs, cloud computing, data visualization e gestão de projetos ágeis. Tenho experiência liderando times técnicos, criando soluções para o mercado e desenvolvendo produtos que vão de e-commerces e dashboards interativos até pipelines de DevOps e projetos com Inteligência Artificial.
+### 🎯 Principais Vetores de Atuação
+* **Cloud & DevOps:** Arquitetura de sistemas resilientes, infraestrutura como código (IaC) e automação de esteiras CI/CD.
+* **Data Engineering & IA:** Construção de pipelines de dados em larga escala (Big Data) e implementação de modelos preditivos eficientes.
+* **Segurança & Governança:** Aplicação de conceitos de *security-by-design*, auditoria técnica de sistemas e proteção de ativos de informação.
 
+---
+
+### 🛠️ Arsenal Técnico & Competências
+
+#### Cloud & Infraestrutura:
 <div align="left">
-<!--   <img width="22%" src="assets/octocat_itscaiocunha.png">   -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itscaiocunha&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Grilo da Cunha GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscaiocunha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" alt="AWS" height="36" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="Azure" height="36" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img align="center" alt="Google Cloud" height="36" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img align="center" alt="Docker" height="36" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Git" height="36" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="GitHub" height="36" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+<br>
 
-<div style="display: inline_block"><br>
-
-### 🛠️ Desenvolvimento de Software
-
-#### Front End:
-<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="ASP.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg" />
-
-#### Back End:
-<img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-#### Banco de Dados:
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-#### DevOps:
-<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-
-### Cloud:
-
-<img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-
+#### Data Engineering & Back-End:
+<div align="left">
+  <img align="center" alt="Python" height="36" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="NodeJS" height="36" src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="C#" height="36" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="Go" height="36" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
-<br><br>
- 
-<div> 
-  
-  ## Social Midia
-  
-  <a href="https://instagram.com/itscaiocunha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/itscaiocunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<br>
+
+#### Bancos de Dados (Relacionais & NoSQL):
+<div align="left">
+  <img align="center" alt="SQL Server" height="36" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="PostgreSQL" height="36" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="MongoDB" height="36" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="MySQL" height="36" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<br>
+
+#### Front-End & Interfaces:
+<div align="left">
+  <img align="center" alt="TypeScript" height="36" src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="NextJS" height="36" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img align="center" alt="ReactJS" height="36" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" />
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+<div>  
+  <a href="https://www.linkedin.com/in/itscaiocunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://instagram.com/itscaiocunha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
